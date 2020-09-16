@@ -12,8 +12,8 @@
   padding-top: 6px;
   left: 10;
   top: 0;
-  width: 80%;
-  height: 91%;
+  width: 960px;
+  height: 550px;
   overflow: auto;
   background-color:indigo;
 }.close {
@@ -32,7 +32,7 @@
 .next {
   cursor: pointer;
   position: absolute;
-  bottom: 0%;
+  bottom: 0px;
   width: auto;
   padding: 2.5px 15px;
   margin-top: -50px;
